@@ -1,0 +1,16 @@
+Blender
+FreeCAD
+DraftSight
+CADintosh
+SolidWorks
+AutoCAD
+Autodesk Inventor
+Digital Project
+Tekla Structures
+AutoPlant
+OpenPlant
+Solid Edge
+Allegro
+Eagle
+Proteus
+Flux

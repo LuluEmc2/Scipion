@@ -1,0 +1,20 @@
+icon ICON "logo.ico"
+
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "080904E4"
+    BEGIN
+      VALUE "CompanyName", "Scipion"
+      VALUE "FileDescription", "Scipion is the most powerfull hacking app."
+      VALUE "FileVersion", "1.0"
+      VALUE "InternalName", "_scipion"
+      VALUE "OriginalFilename", "Scipion.exe"
+      VALUE "ProductName", "Scipion"
+      VALUE "ProductVersion", "1.0"
+    END
+  END
+END
